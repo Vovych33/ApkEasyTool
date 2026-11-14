@@ -2,7 +2,7 @@
 Модифицированный форк заброшенной программы APK Easy Tool, собранный на базе оригинальных исходников. Проект адаптирован под современные требования и исправляет ключевые проблемы оригинальной версии.
 
 ### Уже доступна для скачивания!
-**📥 Последняя версия [Скачать](https://github.com/Vovych33/ApkEasyTool/releases/latest/download/APKEasyTool.zip)**
+[![Скачать](https://img.shields.io/badge/Последняя_версия-Скачать-blue)](https://github.com/Vovych33/ApkEasyTool/releases/latest/download/APKEasyTool.zip)
 
 ### Если обнаружили баги, недочёты а так же есть предложения по улучшению пишите
 [Написать](https://github.com/Vovych33/ApkEasyTool/issues)
